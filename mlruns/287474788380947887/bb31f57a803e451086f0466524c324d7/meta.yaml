@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/bb31f57a803e451086f0466524c324d7/artifacts
+deleted_time: 1700661892530
+end_time: 1700661694474
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: deleted
+run_id: bb31f57a803e451086f0466524c324d7
+run_name: Logistic Regression
+run_uuid: bb31f57a803e451086f0466524c324d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700661690024
+status: 4
+tags: []
+user_id: akhtar

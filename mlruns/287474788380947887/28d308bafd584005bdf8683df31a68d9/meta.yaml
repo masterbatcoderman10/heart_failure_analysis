@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/28d308bafd584005bdf8683df31a68d9/artifacts
+end_time: 1700661863059
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: 28d308bafd584005bdf8683df31a68d9
+run_name: Logistic Regression only C and iterations with SAGA
+run_uuid: 28d308bafd584005bdf8683df31a68d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700661857214
+status: 3
+tags: []
+user_id: akhtar
