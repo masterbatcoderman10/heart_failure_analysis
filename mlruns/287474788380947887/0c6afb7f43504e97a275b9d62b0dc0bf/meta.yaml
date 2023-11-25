@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/0c6afb7f43504e97a275b9d62b0dc0bf/artifacts
+deleted_time: 1700753861227
+end_time: 1700753845703
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: deleted
+run_id: 0c6afb7f43504e97a275b9d62b0dc0bf
+run_name: Decision Tree - All HParams - F1
+run_uuid: 0c6afb7f43504e97a275b9d62b0dc0bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700753831543
+status: 4
+tags: []
+user_id: akhtar

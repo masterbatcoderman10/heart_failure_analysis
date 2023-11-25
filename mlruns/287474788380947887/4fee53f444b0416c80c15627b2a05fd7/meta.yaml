@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/4fee53f444b0416c80c15627b2a05fd7/artifacts
+end_time: 1700754181706
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: 4fee53f444b0416c80c15627b2a05fd7
+run_name: Decision Tree - All HParams - Recall Custom
+run_uuid: 4fee53f444b0416c80c15627b2a05fd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700754133932
+status: 3
+tags: []
+user_id: akhtar

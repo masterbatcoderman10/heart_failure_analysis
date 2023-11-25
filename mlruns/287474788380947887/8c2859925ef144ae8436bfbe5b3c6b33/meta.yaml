@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/8c2859925ef144ae8436bfbe5b3c6b33/artifacts
+end_time: 1700903638034
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: 8c2859925ef144ae8436bfbe5b3c6b33
+run_name: Stacking Classifier Prefit - All HParams Grid Search - Recall Custom
+run_uuid: 8c2859925ef144ae8436bfbe5b3c6b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700903633838
+status: 4
+tags: []
+user_id: akhtar

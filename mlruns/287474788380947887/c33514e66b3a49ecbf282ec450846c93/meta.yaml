@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/c33514e66b3a49ecbf282ec450846c93/artifacts
+end_time: 1700681702507
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: c33514e66b3a49ecbf282ec450846c93
+run_name: Logistic Regression - All HParams - liblinear - F1
+run_uuid: c33514e66b3a49ecbf282ec450846c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700681699042
+status: 3
+tags: []
+user_id: akhtar

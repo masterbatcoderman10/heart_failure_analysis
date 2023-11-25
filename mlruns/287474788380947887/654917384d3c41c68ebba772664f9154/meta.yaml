@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/654917384d3c41c68ebba772664f9154/artifacts
+end_time: 1700904231643
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: 654917384d3c41c68ebba772664f9154
+run_name: Stacking Classifier [LR, DT] Prefit - LogReg Meta - All HParams Grid Search
+  - Recall Custom
+run_uuid: 654917384d3c41c68ebba772664f9154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700904231604
+status: 4
+tags: []
+user_id: akhtar

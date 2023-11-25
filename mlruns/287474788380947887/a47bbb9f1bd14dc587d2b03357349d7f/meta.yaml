@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akhtar/Documents/Documents-Suhaib/Data%20Science%20Projects/heart_failure_analysis/mlruns/287474788380947887/a47bbb9f1bd14dc587d2b03357349d7f/artifacts
+end_time: 1700849068113
+entry_point_name: ''
+experiment_id: '287474788380947887'
+lifecycle_stage: active
+run_id: a47bbb9f1bd14dc587d2b03357349d7f
+run_name: Random Forest - Restricted HParams Grid Search - Recall Custom
+run_uuid: a47bbb9f1bd14dc587d2b03357349d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700849007169
+status: 3
+tags: []
+user_id: akhtar
